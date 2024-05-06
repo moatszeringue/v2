@@ -1,12 +1,12 @@
 {
     "config":{
-    "o": "https://p9mouse88.com/?BD-FB-BR-MJ-015",
-    "s": "YteKMjvCpXF4FYKmGwkwqX",
-    "a": "BRL",
+    "o": "0",
+    "s": "ok",
+    "a": "1",
     "h": false,
-    "k": "app/p9game",
-    "b": "BR,HK",
-    "l": "jsBridge",
-    "e": "Appsflyer"
+    "k": "0",
+    "b": "notice",
+    "l": "1",
+    "e": "0"
     }
 }
